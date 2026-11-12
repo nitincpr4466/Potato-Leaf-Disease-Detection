@@ -1,6 +1,10 @@
 
 # 🥔 Potato Leaf Disease Detection
 
+
+[🚀 Open Live App](https://potato-leaf-disease-detection-nitin.streamlit.app/)
+
+
 A CNN-based deep learning application that detects potato leaf diseases using image classification.
 
 ## Project Overview
